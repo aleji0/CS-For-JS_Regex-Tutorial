@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Tutorial
 
 This tutorial was created to help you understand what a regex is. A regex is a string of characters that details a specific search pattern within that string. Characters can be found or found and replaced using this. These are often used to validate input or, in this case, for matching characters in valid e-mail addresses.
 
